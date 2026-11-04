@@ -9,6 +9,6 @@ venue:
 slidesurl: 
 paperurl: 'https://www.jbe-platform.com/content/books/9789027256980-scl.105.01mik'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Mikkelsen, Olaf & Stefan Hartmann. (2022). &quot;Competing future constructions and the Complexity Principle: A contrastive outlook.&quot; <i>In Flach, Susanne & Martin Hilpert (eds.), Broadening the Spectrum of Corpus Linguistics: New approaches to variability and change</i>. pp 9-40.'
+citation: 'Mikkelsen, Olaf & Stefan Hartmann. (2022). &quot;Competing future constructions and the Complexity Principle: A contrastive outlook.&quot; In Flach, Susanne & Martin Hilpert (eds.), <i>Broadening the Spectrum of Corpus Linguistics: New approaches to variability and change</i>, John Benjamins. pp 9-40.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
