@@ -35,13 +35,13 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=-ksz56YAAAAJ&view_op=list_works&gmla=AN_4Zu-7-V62V4iq1nr2HnzIBUMfduGj9V7ZSV8NZMStAaN_CqyQUWLpIs06x2J-iV6tLvQ-R_vBs-uaupe8ilx3_Vjzz8pabkqjII41lfwlAn09M60XoWsj9ucFnp-0k6ufmv84_L8uAtIUXKBWp7_JGxs"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
