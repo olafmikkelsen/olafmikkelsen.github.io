@@ -15,6 +15,9 @@ Store språkmodeller har vist seg å være pålitelige til anonymisering (Deuße
 mellom ulike målformer med varierende innslag av dialektale trekk. Ved å tagge hvert enkelt blogginnlegg for emne og målform vil man kunne foreta mer presise søk som tillater å f.eks. inkludere innlegg på nynorsk som omhandler politikk, eller ekskludere alle innlegg som handler om matlaging eller hagearbeid. Potensielle fordeler ved en slik inndeling vil bli diskutert, og casestudier som illustrerer hvordan korpuset skiller seg fra andre eksisterende korpuser vil bli presentert.
 
 Barbaresi, A. 2021. Trafilatura: A Web Scraping Library and Command-Line Tool for Text Discovery and Extraction. I Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: System Demonstrations, 122–131.
+
 Deußer, T., Sparrenberg, L., Berger, A., Hahnbück, M., Bauckhage, C., & Sifa, R. (2025, October). A survey on current trends and recent advances in text anonymization. I IEEE 12th International Conference on Data Science and Advanced Analytics, 1–9.
+
 Haug, D. T. T., Yildirim, A., Hagen, K., & Nøklestad, A. (2023). I Rules and neural nets for morphological tagging of Norwegian - Results and challenges, 425–435.
+
 Nøklestad, A., Hagen, K., Johannessen, J. B., Kosek, M. & Priestley, J. 2017. A modernised version of the Glossa corpus search system. I J. Tiedemann (red.): Proceedings of the 21st Nordic Conference on Computational Linguistics, 251–254.
