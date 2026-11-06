@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-10-11-future-constructions-in-English-and-Norwegian
 date: 2024-10-11
+excerpt: 'This is a follow-up study of Mikkelsen and Hartmann (2022). It takes into account both American and British English, as well as Norwegian Bokmål, and treats will/won't/'ll/shall, BE going to/gonna, and vil/skal/kommer til å, as different constructions, modelling the variation using collostructional analysis and conditional inference trees.'
 venue: 'Linguistic Constructions. Languages in Contrast 24:2. Edited by Beata Trawiński, Marc Kupietz and Kristel Proost, pp. 170–196'
 paperurl: 'https://benjamins.com/catalog/lic.00043.mik'
 ---
