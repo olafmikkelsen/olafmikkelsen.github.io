@@ -1,13 +1,13 @@
 var addressPoints = [
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
     "A data-driven information-theoretic approach to constructicon building: the mMERGE algorithm and Norwegian multiword expressions<br />XXII EURALEX INTERNATIONAL CONGRESS 2026; \u00d6sterreichische Akademie der Wissenschaften, Vienna, Austria",
     48.208578,
     16.3780363
+  ],
+  [
+    "Det norske konstruktikonet vs. store spr\u00e5kmodeller: konkurrenter eller samarbeidspartnere?<br />17th International Conference on the Languages of the Nordic Countries as a Second Language (NORDAND17); Universitetet i Bergen, Norway",
+    60.3809342,
+    5.3313021
   ],
   [
     "Norsk Bloggkorpus: et nytt korpus for \u00e5 studere uformell, skriftlig norsk i tidsrommet 2010-2021<br />21. M\u00f8te om norsk spr\u00e5k (MONS 21); Universitetet i Agder, Kristiansand, Norway",
