@@ -20,8 +20,13 @@ Following preprocessing and tokenization, the corpus is analyzed iteratively ove
 In this talk we will present the results of this case study and compare them with a list of 2,000 construction candidates previously collected in the Norwegian Constructicon via crowdsourcing.
 
 References:
+
 Barbaresi, A. (2019). The Vast and the Focused: On the need for thematic web and blog corpora. Proceedings of the Workshop on Challenges in the Management of Large Corpora. Cardiff, UK. 29-32. Retrieved from https://hal.science/hal-02447305v1/file/Barbaresi_The_Vast_and_the_Focused_2019.pdf
+
 Ben Youssef, C. (2024). mMERGE: A corpus-driven multiword expressions discovery algorithm. Doctoral dissertation, University of California, Santa Barbara. ProQuest Dissertations & Theses. Publication No. 31763846. Retrieved from https://www.proquest.com/dissertations-theses/mmerge-corpus-driven-multiword-expressions/docview/3163318667/se-2?accountid=17260
+
 Endresen, A. & O. Mikkelsen. (2024). Ten good reasons to build the Norwegian ConstructiCon, a dictionary of grammar. Lexicographica 40(1), 121-145. https://doi.org/10.1515/lex-2024-0007
+
 Gries, S. T. (2022). Multi-word units (and tokenization more generally): A multi-dimensional and largely information-theoretic approach. Lexis, 19. https://doi.org/10.4000/lexis.6231
+
 Språknett 2024 – The Norwegian Constructicon. A digital network of Norwegian constructions. Available at https://constructicon.github.io/norwegian/
