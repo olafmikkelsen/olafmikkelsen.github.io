@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Norwegian \u201cnormlessness\u201d as a challenge for constructicography: How to build a constructiCon for a language without a single norm?<br />5th Constructional Approaches to Language Pedagogy (CALP5); Uit - Norges arktiske universitet, Troms\u00f8, Norway",
+    69.6819069,
+    18.9724906
+  ],
+  [
     "A data-driven information-theoretic approach to constructicon building: the mMERGE algorithm and Norwegian multiword expressions<br />XXII EURALEX INTERNATIONAL CONGRESS 2026; \u00d6sterreichische Akademie der Wissenschaften, Vienna, Austria",
     48.208578,
     16.3780363
