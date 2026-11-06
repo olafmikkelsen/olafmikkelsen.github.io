@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2024-01-05-concrete-constructions-or-messy-mangroves
 date: 2024-01-05
 excerpt: 'This study explores the possibility of extending current methods for quantitatively modelling construction grammar to an approach that does not assume discrete grammatical constructions.'
-venue: '(Linguistic Vanguard 10(1) Special issue: What are alternations and how should we study them? Eds. Dirk Pijpops, Karlien Franco, Dirk Speelman, Freek Van de Velde: 9-18)[https://www.degruyterbrill.com/journal/key/lingvan/10/s1/html]'
+venue: 'Linguistic Vanguard 10(1) Special issue: What are alternations and how should we study them? Eds. Dirk Pijpops, Karlien Franco, Dirk Speelman, Freek Van de Velde: 9-18'
 paperurl: 'https://www.degruyterbrill.com/document/doi/10.1515/lingvan-2023-0034/html'
 ---
 
