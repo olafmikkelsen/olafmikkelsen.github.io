@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2022-11-10-competing-future-constructions-and-the-complexity-principle
 date: 2022-11-10
-excerpt: 'This paper presents a contrastive study on the role of syntactic complexity in the choice between different future constructions in English and Norwegian.'
+excerpt: 'Co-authored with Stefan Hartmann'
 venue: 'Broadening the Spectrum of Corpus Linguistics: New approaches to variability and change. Studies in Corpus Linguistics 105. Edited by Susanne Flach and Martin Hilpert, pp. 9–40'
 paperurl: 'https://benjamins.com/catalog/scl.105.01mik'
 ---
