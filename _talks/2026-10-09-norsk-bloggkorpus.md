@@ -3,9 +3,9 @@ title: "Norsk Bloggkorpus som et kasus for en KI-drevet pipeline for datarengjø
 collection: talks
 type: "Talk"
 permalink: /talks/2026-10-09-norsk-bloggkorpus
-venue: "Universitetet i Oslo"
+venue: "Norsk Språkteknologikonferanse"
 date: 2026-10-09
-location: "Oslo, Norway"
+location: "Universitetet i Oslo, Norway"
 ---
 Norsk Bloggkorpus er et korpus på ca. 20 millioner ord bestående av 1001 norske blogger, publisert i perioden 2010-2021. Dataene ble innhentet høsten 2021 ved å mate en liste med startadresser inn i Trafilatura (Barbaresi 2021). Hver blogg er knyttet til følgende metadata for hver forfatter (der denne informasjonen var tilgjengelig): aldersgruppe (født tiår), kjønn og opprinnelse (landsdel). Korpuset er tagget med Humit-taggeren (Haug et al. 2023) og glossa-søkesystemet (Nøklestad et al. 2017) er integrert i brukergrensesnittet, som vil bli gjort tilgjengelig på www.bloggkorpus.uit.no. Før det kan gjøres tilgjengelig, må det imidlertid rengjøres og anonymiseres. Dette bidraget fokuserer på en KI-drevet pipeline for det pågående arbeidet med rengjøring og anonymisering og diskuterer fordelene ved et korpus som er tagget for målform og diskursemne.
 
