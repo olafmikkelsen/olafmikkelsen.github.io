@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-10-11-future-constructions-in-English-and-Norwegian
 date: 2024-10-11
-excerpt: 'This is a follow-up study of Mikkelsen and Hartmann (2022). It takes into account new data from the OANC and treats each variant as a separate construction, modelling the variation using collostructional analysis and conditional inference trees.'
+excerpt: 'Co-authored with Stefan Hartmann'
 venue: 'Linguistic Constructions. Languages in Contrast 24:2. Edited by Beata Trawiński, Marc Kupietz and Kristel Proost, pp. 170–196'
 paperurl: 'https://benjamins.com/catalog/lic.00043.mik'
 ---
