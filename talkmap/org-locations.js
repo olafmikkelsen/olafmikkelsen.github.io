@@ -15,8 +15,8 @@ var addressPoints = [
     -118.2427676
   ],
   [
-    "Norsk Bloggkorpus som et kasus for en KI-drevet pipeline for datarengj\u00f8ring, anonymisering og tagging av m\u00e5lform og diskursemne<br />Universitetet i Oslo; Oslo, Norway",
-    59.9133301,
-    10.7389701
+    "Norsk Bloggkorpus som et kasus for en KI-drevet pipeline for datarengj\u00f8ring, anonymisering og tagging av m\u00e5lform og diskursemne<br />Norsk Spr\u00e5kteknologikonferanse; Universitetet i Oslo, Norway",
+    59.9414173,
+    10.7227683
   ]
 ];
