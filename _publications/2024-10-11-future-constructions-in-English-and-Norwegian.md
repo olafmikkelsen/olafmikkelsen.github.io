@@ -2,7 +2,7 @@
 title: "Future constructions in English and Norwegian: A contrastive corpus study"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-future-constructions-in-English-and-Norwegian.md
+permalink: /publication/2024-10-11-future-constructions-in-English-and-Norwegian
 date: 2024-10-11
 venue: 'Linguistic Constructions. Languages in Contrast 24:2. Edited by Beata Trawiński, Marc Kupietz and Kristel Proost, pp. 170–196'
 paperurl: 'https://benjamins.com/catalog/lic.00043.mik'
