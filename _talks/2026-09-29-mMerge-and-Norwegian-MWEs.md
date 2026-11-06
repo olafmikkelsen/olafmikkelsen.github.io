@@ -7,6 +7,7 @@ venue: "XXII EURALEX INTERNATIONAL CONGRESS 2026"
 date: 2026-09-29
 location: "Österreichische Akademie der Wissenschaften, Vienna, Austria"
 ---
+With Chadi Ben Yossef and Anna Endresen
 
 This talk explores the use of objective statistical methods to detect construction candidates in large corpus data. While the idea of applying objective frequency-based criteria to the shaping of construction inventories is not new, this study reports on: 1) the first extensive application of the mMERGE algorithm for the purpose of constructicon building, 2) leveraging a “focused” corpus representative of informal discourse, and 3) a study aimed at building a thorough and representative constructicon for Norwegian. More specifically, this talk advances the computational aspects of constructicography by exploring how constructions can be identified using the newly developed statistical algorithm mMERGE (Ben Youssef 2024; Gries 2022), which represents a data-driven, information-theoretic approach to constructicon building. This aligns with the workshop’s focus on leveraging large corpora and NLP techniques.
 
