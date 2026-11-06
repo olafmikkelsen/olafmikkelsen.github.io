@@ -1,0 +1,28 @@
+---
+title: "Hvorfor er norske framtidskonstruksjoner vanskelige å beherske for innlærere? En korpusbasert analyse"
+collection: talks
+type: "Talk"
+permalink: /talks/2026-06-11-hvorfor-er-norske-framtidskonstruksjoner-vanskelige
+venue: "17th International Conference on the Languages of the Nordic Countries as a Second Language (NORDAND17)"
+date: 2026-06-11
+location: "Universitetet i Bergen, Norway"
+---
+With Snorre Karkkonen Svensson
+
+Det norske systemet av verbkonstruksjoner med framtidsreferanse er en utfordring for innlærere (Mac Donald 1982). Denne presentasjonen analyserer data fra både morsmålsbrukere og innlærere for å svare på følgende spørsmål: (1) Er bruken av de norske verbkonstruksjonene mer komplekse enn sammenlignbare språk? (2) Skaper denne kompleksiteten problemer for innlærere, eller spiller andre faktorer inn?
+
+For å svare på det første spørsmålet ser vi på to datasett med forekomster av skal/vil/kommer til å + INF fra Norsk Bloggkorpus (Mikkelsen 2021). Vi bruker distinktiv kolleksemanalyse (Gries & Stefanowitsch 2004) for å analysere hele datasettet (ca. 95 000 eksempler) for hvilke subjekt/verbtyper som er mest assosiert med de ulike konstruksjonene og regresjonsanalyse (Speelman 2014) for å analysere et utvalg (600 eksempler) for abstrakte semantiske trekk. Kvantifiseringen av resultatene gjør at de kan sammenlignes med engelsk og spansk som er analysert på samme vis. Sammenlignet med disse språkene har norsk en høyere kollokasjonskoeffisient og flere signifikante semantiske trekk som spiller inn på valget av konstruksjon, og bruken av de norske verbkonstruksjonene kan dermed sies å være mer komplekse.
+
+For å svare på det andre spørsmålet ser vi på innlærerdata der vi klassifiserer bruken av formene i henhold til bruk av subjekt/verbtyper (kollokasjoner) og semantiske trekk som kommunikativ funksjon, tidsreferanse og grad av sikkerhet samtidig som vi kontrollerer for individuell variasjon, morsmål og språknivå. Resultatene tolkes i lys av kollokasjonstransfer (Granger 2014) og konseptuell transfer (Jarvis 2007).
+
+Granger, Sylviane. 2014. A lexical bundle approach to comparing languages: Stems in English and French. Languages in Contrast 14.1: 58-72.
+
+Gries, Stefan Th. & Anatol Stefanowitsch. 2004. Extending collostructional analysis: A corpus-based perspective on alternations'. International journal of corpus linguistics 9.1: 97-129.
+
+Jarvis, Scott. 2007. Theoretical and methodological issues in the investigation of conceptual transfer. Vigo International Journal of Applied Linguistics 4: 43-71.
+
+Mac Donald, Kirsti. 1983. Uttrykk for framtid i norsk. Norskrift 39: 74-87.
+
+Mikkelsen, Olaf. 2021. Norsk bloggkorpus. https://github.com/omikke/NBC
+
+Speelman, Dirk. 2014. Logistic regression: A confirmatory technique for comparisons in corpus linguistics. I Glynn, Dylan & Karen Fischer. Corpus methods for semantics: Quantitative studies in polysemy and synonymy. Amsterdam: John Benjamins, 487-533.
