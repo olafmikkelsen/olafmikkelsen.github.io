@@ -7,6 +7,8 @@ venue: "17th International Conference on the Languages of the Nordic Countries a
 date: 2026-06-12
 location: "Universitetet i Bergen, Norway"
 ---
+With Anna Endresen
+
 Pedagogisk konstruksjonsgrammatikk har det siste tiåret vokst fram som et eget felt (Herbst 2016). I lyset av dette kan utviklingen av konstruktikoner (Lyngfelt et al. 2018), en ny type digital referansegrammatikk som henter informasjon om hvordan konstruksjoner brukes fra korpusdata, ses som en ressurs for studenter og lærere. Slike konstruktikoner utfordres nå av påstander om at store språkmodeller kan frambringe samme type informasjon. Vår presentasjon drøfter disse påstandene ved å sammenligne informasjon generert av ChatGPT-5 med autentiske korpusdata ved hjelp av grammatikalitetstester.
 
 Endresen et al. (2025) har vist at ChatGPT-4 kan gi gode beskrivelser av konstruksjoner i det russiske konstruktikonet, men at den genererer eksempelsetninger som kan være unaturlige eller inneholde feil av samme type som avanserte innlærere kan gjøre. Vi bygger videre på disse funnene gjennom følgende skritt (1) vi valgte fire konstruksjoner fra betaversjonen av det norske konstruktikonet (https://constructicon.github.io/norwegian/), (2) ba ChatGPT-5 om å generere prototypiske «fillers» og eksempler, (3) hentet ut tilsvarende informasjon fra et korpus, (4) og ba morsmålsbrukere vurdere begge eksempeltyper på en 5-punkts Likertskala.
