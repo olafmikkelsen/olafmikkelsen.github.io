@@ -2,9 +2,9 @@
 title: "Det norske konstruktikonet vs. store språkmodeller: konkurrenter eller samarbeidspartnere?"
 collection: talks
 type: "Talk"
-permalink: /talks/2026-06-12-det-norske-konstruktikonet-vs-store-språkmodeller
+permalink: /talks/2026-06-11-det-norske-konstruktikonet-vs-store-språkmodeller
 venue: "17th International Conference on the Languages of the Nordic Countries as a Second Language (NORDAND17)"
-date: 2026-06-12
+date: 2026-06-11
 location: "Universitetet i Bergen, Norway"
 ---
 With Anna Endresen
