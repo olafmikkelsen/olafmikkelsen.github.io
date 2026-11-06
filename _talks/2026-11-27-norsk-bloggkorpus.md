@@ -7,6 +7,8 @@ venue: "21. Møte om norsk språk (MONS 21)"
 date: 2026-11-27
 location: "Universitetet i Agder, Kristiansand, Norway"
 ---
+English: a presentation of the Norwegian Blog Corpus, a collection of 1001 Norwegian blogs with metadata of speakers and entries.
+
 Dette innlegget presenterer Norsk Bloggkorpus (NBK), en samling av 1001 norske blogger med metaspråklig informasjon om bloggforfattere og blogginnlegg. Innlegget tar for seg hvordan korpuset ble samlet inn og presenterer et kasusstudium som illustrerer hvordan dette korpuset kan bidra til norsk språkforskning.
 
 NBK inneholder ca. 20 millioner ord i form av bloggposter som ble åpent publisert i perioden 2010-2021. Dataene ble innhentet gjennom Python-skriptet Trafilatura (Barbaresi 2021). Hver blogg er knyttet til følgende metadata (der denne informasjonen var tilgjengelig): aldersgruppe (født tiår), kjønn (kvinne, mann, annet) og opprinnelse (landsdel). Korpuset er tagget med Humit-taggeren (Haug et al. 2023) og glossa-søkesystemet (Nøklestad et al. 2017) er integrert i brukergrensesnittet. UiOs personverntrygge språkmodell GPT UiO ble brukt til å (i) eliminere irrelevant informasjon, (ii) maskere sensitiv og personlig informasjon, samt (iii) tagge hvert blogginnlegg for målform (bokmål, nynorsk, dialekt) og diskursemne. Gjennom denne formen for tagging kan man foreta mer presise søk som tillater å f.eks. inkludere innlegg på nynorsk som omhandler politikk, eller ekskludere alle innlegg som handler om matlaging eller hagearbeid.
