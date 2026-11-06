@@ -18,10 +18,16 @@ Selv om det allerede finnes en rekke korpuser for norsk språk vil det her argum
 Denne konstruksjonen er tradisjonelt regnet som et nordnorsk målmerke (Iversen 1954, Jahr 2009), men data fra NBK tyder på at den er i ferd med å spre seg til hele landet. Ettersom norsk allerede har tre konkurrerende framtidsuttrykk (skal + INF, vil + INF og kommer til å + INF) er det verdt å spørre seg hvorfor enkelte talere inkorporerer en fjerde konstruksjon i sin grammatikk. En multippel korrespondanseanalyse av 676 eksempler av de fire konstruksjonene, annotert for fire variabler (intensjonsstyrt/intensjonsuavhengig, grad av sikkerhet, avstand i tid, betingelse), viser at blir å + INF er semantisk umarkert sammenlignet med de tre andre. Dette tolkes som at talerne har behov for en mer nøytral framtidskonstruksjon som kan brukes i flere kontekster enn de eksisterende konstruksjonene, som er mer spesialiserte i sin framtidsreferanse.
 
 Barbaresi, A. 2021. Trafilatura: A Web Scraping Library and Command-Line Tool for Text Discovery and Extraction. I Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: System Demonstrations, 122–131.
+
 Barbaresi, A. 2019. The Vast and the Focused: On the need for thematic web and blog corpora. I 7th Workshop on Challenges in the Management of Large Corpora (CMLC-7), 29–32.
+
 Goldberg, A. E. (2019). Explain me this: Creativity, competition, and the partial productivity of constructions. Princeton University Press.
+
 Haug, D. T. T., Yildirim, A., Hagen, K., & Nøklestad, A. (2023). I Rules and neural nets for morphological tagging of Norwegian - Results and challenges, 425–435.
+
 Iversen, R. 1954. Noen syntaktiske notater. Maal og minne, 124–131.
+
 Jahr, E. H. 2009. Futurumskonstruksjonen blir å reise i skriftspråket. Språknytt 3/2009, 31–33.
+
 Nøklestad, A., Hagen, K., Johannessen, J. B., Kosek, M. & Priestley, J. 2017. A modernised version of the Glossa corpus search system. I J. Tiedemann (red.): Proceedings of the 21st Nordic Conference on Computational Linguistics, 251–254.
 Schmid, H. J. 2020. The dynamics of the linguistic system: Usage, conventionalization, and entrenchment. Oxford University Press.
