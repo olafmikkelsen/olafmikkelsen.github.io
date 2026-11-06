@@ -1,7 +1,7 @@
 ---
 title: "A data-driven information-theoretic approach to constructicon building: the mMERGE algorithm and Norwegian multiword expressions"
 collection: talks
-type: "talk"
+type: "Talk"
 permalink: /talks/2026-09-29-mMERGE-and-Norwegian-MWEs
 venue: "XXII EURALEX INTERNATIONAL CONGRESS 2026"
 date: 2026-09-29
