@@ -2,7 +2,7 @@
 title: "Norsk Bloggkorpus: et nytt korpus for å studere uformell, skriftlig norsk i tidsrommet 2010-2021"
 collection: talks
 type: "Talk"
-permalink: /talks/2026-11-27-norsk-bloggkorpus
+permalink: /talks/2026-11-27-norsk-bloggkorpus-et-nytt-korpus
 venue: "21. Møte om norsk språk (MONS 21)"
 date: 2026-11-27
 location: "Universitetet i Agder, Kristiansand, Norway"
