@@ -2,7 +2,7 @@
 title: "Norsk Bloggkorpus som et kasus for en KI-drevet pipeline for datarengjøring, anonymisering og tagging av målform og diskursemne"
 collection: talks
 type: "Talk"
-permalink: /talks/2026-10-09-norsk-bloggkorpus
+permalink: /talks/2026-10-09-norsk-bloggkorpus-som-et-kasus-for-en-KI-drevet-pipeline
 venue: "Norsk Språkteknologikonferanse"
 date: 2026-10-09
 location: "Universitetet i Oslo, Norway"
