@@ -1,0 +1,1 @@
+Before becoming a linguist, I taught Norwegian as a foreign language in institutions and countries across Europe: Lille University (France), Idiomas Complutense (Spain), Ghent University (Belgium), Adam Mickiewicz University (Poznan, Poland) and UiT - the Arctic University of Norway.
