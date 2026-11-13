@@ -13,4 +13,4 @@ Project: Norwegian legal language as a network of grammatical constructions
 ======
 The research questions of this project are the following: (1) Is Norwegian legal language difficult to process for speakers of Norwegian?, and if so: (2) Why is this the case?
 
-To answer these questions, I will (i) identify which grammatical constructions are characteristic of a corpus of legal texts compared to a reference corpus (the Norwegian Blog Corpus), and (ii) determine which of these constructions make the legal texts difficult to read for different groups (legal professionals and lay-people).
+To answer these questions, I will attempt to (i) identify which grammatical constructions are characteristic of a corpus of legal texts compared to a reference corpus (the Norwegian Blog Corpus), and to (ii) determine which of these constructions make the legal texts difficult to read for different groups (legal professionals and lay-people).
