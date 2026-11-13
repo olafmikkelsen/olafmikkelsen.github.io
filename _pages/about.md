@@ -11,4 +11,6 @@ I'm Olaf [u:lɑf], a postdoctoral researcher at University of South-Eastern Norw
 
 Project: Norwegian legal language as a network of grammatical constructions
 ======
-Project description
+The research questions of this project are the following: (1) Is Norwegian legal language difficult to process for speakers of Norwegian?, and if so: (2) Why is this the case?
+
+To answer these questions, I will (i) identify which grammatical constructions are characteristic of a corpus of legal texts compared to a reference corpus (the Norwegian Blog Corpus), and (ii) determine which of these constructions make the legal texts difficult to read for different groups (legal professionals and lay-people).
